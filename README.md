@@ -40,6 +40,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
     - [Example tvOS to show IMDB movies](https://github.com/ChristianLysne/TVOS-Example)
     - [Integrating 3rd Party Controls by Telerik into tvOS](https://github.com/telerik/ios-sdk/tree/master/TestTV)
     - [An open tvOS app for free and public available classic films](https://github.com/sarn/ARNClassicFilms)
+    - [TVDML - simplify app development for Apple TV using React.js ](https://github.com/a-ignatov-parc/tvdml)
 
 - [Components](#components)
     - [TVOSButton](https://github.com/movielala/TVOSButton)
